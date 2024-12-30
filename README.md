@@ -2,6 +2,9 @@
 
 A Firefox extension that automatically converts Japanese Yen prices to USD on Amazon Japan (amazon.co.jp).
 
+This extension is now available on the FireFox Addon Store.
+https://addons.mozilla.org/en-US/firefox/addon/amazon-japan-usd-converter/#
+
 ## Features
 
 - Real-time currency conversion using current exchange rates
